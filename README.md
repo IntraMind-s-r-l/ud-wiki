@@ -1,0 +1,2 @@
+# ud-wiki
+Undead documentation
